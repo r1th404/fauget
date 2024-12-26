@@ -1,10 +1,11 @@
-Indonesia Negara Hukum
+# Fauget Application
 
-Assalamualaikum
+## Indonesia Negara Hukum
 
-Fauget Application
+## Assalamualaikum
 
-Overview
+
+# Overview
 
 Fauget is an innovative application that integrates advanced machine learning and pathfinding algorithms to enhance healthcare accessibility. It provides two main features:
 
@@ -14,7 +15,7 @@ Hospital Navigation System: Implements the A* algorithm to help users find the n
 
 This project aims to deliver timely and accurate solutions to improve healthcare outcomes and accessibility.
 
-Installation Guide
+# Installation Guide
 
 Prerequisites
 
@@ -64,7 +65,7 @@ Familiarize yourself with the in-app help section for guidance.
 
 Regularly check for updates through the "Update" button in settings.
 
-Usage Guidelines
+# Usage Guidelines
 
 This application is free to use but should not be sold or redistributed for profit.
 
@@ -72,7 +73,7 @@ Use Fauget responsibly and consult a healthcare professional for medical advice.
 
 Backup your data periodically if necessary.
 
-Support
+# Support
 
 For any issues or questions, refer to the help section in the application or contact the support team via the official website.
 
